@@ -1,11 +1,13 @@
 
-{
+const cartas = [
+  {
     "nome": "mountain",
     "tipo": "terreno",
     "subtipo": "Montanha",
+    "quantidade": "8",
     "custo_mana": "0",
     "custo_mana_total": "0",
-    "texto": " nenhum",
+    "texto": "nenhum",
     "forca": "0",
     "resistencia": "0",
     "lealdade": "0",
@@ -19,6 +21,6 @@
         "descricao": "0",
         "tipo": "0"
       }
-    
-   ]
- }
+    ]
+  }
+];
